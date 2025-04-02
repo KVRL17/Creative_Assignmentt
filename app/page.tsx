@@ -46,7 +46,7 @@ export default function Home() {
         <Card className="shadow-xl border-none">
           <CardHeader className="text-center">
             <CardTitle className="text-3xl font-bold bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent">
-              My Todo List
+              Venkata Ramana Karri Todo List
             </CardTitle>
           </CardHeader>
           <CardContent>
